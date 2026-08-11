@@ -1,0 +1,16 @@
+    {
+      "name": "Orçamento Revestech",
+      "short_name": "Revestech",
+      "description": "Sistema de Orçamentos para Obras",
+      "start_url": "App.html",
+      "display": "standalone",
+      "background_color": "#0D47A1",
+      "theme_color": "#1976D2",
+      "icons": [
+        {
+          "src": "https://i.imgur.com/8QwK2bL.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
